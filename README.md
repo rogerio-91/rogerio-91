@@ -26,4 +26,4 @@
 
 <br>
 
-## O sucesso é treinavel!! 
+## O sucesso é treinável!! 
