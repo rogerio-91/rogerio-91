@@ -1,11 +1,12 @@
-### Olá eu sou o Rogério Júnior 👋
+### Hello, I'm Rogério Júnior!👋
 
+Follow me or send email, link below 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerio-rocha-santos-junior/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerio.rocha91@gmail.com?subject=&body=) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogerio.engineer/)
 
 
 ![Rogério's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerio-91&show_icons=true&theme=dracula)
 
-## Tecnologias que implemento em meus projetos:🎯
+## Technologies that I implement in my projects:🎯
 
 <div style= display: inline_block><br>
 <img  alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
@@ -26,4 +27,4 @@
 
 <br>
 
-## O Sucesso é Treinável!!🚀🔥 
+## Success is trainable!!🚀🔥 
